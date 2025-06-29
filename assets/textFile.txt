@@ -1,4 +1,0 @@
-I'm learning git
-New Line
-It's not the copy
-Modified from other branch
