@@ -5,3 +5,7 @@ function circle(r) {
 function square(a) {
     return a ** 2
 }
+
+function rectangle(a, b) {
+    return a * b
+}
